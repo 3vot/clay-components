@@ -1,0 +1,11 @@
+{
+  "name": "clay-components",
+  "version": "0.0.1",
+  "description": "App Development Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Rodriguez",
+  "license": "BSD-2-Clause"
+}
