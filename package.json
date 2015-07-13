@@ -1,11 +1,15 @@
 {
   "name": "clay-components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "App Development Components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roberto Rodriguez",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "clay-delegate": "^0.2.3",
+    "events": "^1.0.2"
+  }
 }
