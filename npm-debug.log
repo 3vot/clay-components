@@ -1,0 +1,106 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/roberto/.nvm/v0.10.21/bin/node',
+1 verbose cli   '/Users/roberto/.nvm/v0.10.21/bin/npm',
+1 verbose cli   'publish' ]
+2 info using npm@1.3.11
+3 info using node@v0.10.21
+4 verbose publish [ '.' ]
+5 verbose cache add [ '.', null ]
+6 verbose cache add name=undefined spec="." args=[".",null]
+7 verbose parsed url { protocol: null,
+7 verbose parsed url   slashes: null,
+7 verbose parsed url   auth: null,
+7 verbose parsed url   host: null,
+7 verbose parsed url   port: null,
+7 verbose parsed url   hostname: null,
+7 verbose parsed url   hash: null,
+7 verbose parsed url   search: null,
+7 verbose parsed url   query: null,
+7 verbose parsed url   pathname: '.',
+7 verbose parsed url   path: '.',
+7 verbose parsed url   href: '.' }
+8 silly lockFile 3a52ce78- .
+9 verbose lock . /Users/roberto/.npm/3a52ce78-.lock
+10 verbose tar pack [ '/var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz',
+10 verbose tar pack   '.' ]
+11 verbose tarball /var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz
+12 verbose folder .
+13 silly lockFile 1f1177db-tar tar://.
+14 verbose lock tar://. /Users/roberto/.npm/1f1177db-tar.lock
+15 silly lockFile cb822e77-60790-0-6958594778552651-tmp-tgz tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz
+16 verbose lock tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz /Users/roberto/.npm/cb822e77-60790-0-6958594778552651-tmp-tgz.lock
+17 silly lockFile 1f1177db-tar tar://.
+18 silly lockFile 1f1177db-tar tar://.
+19 silly lockFile cb822e77-60790-0-6958594778552651-tmp-tgz tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz
+20 silly lockFile cb822e77-60790-0-6958594778552651-tmp-tgz tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz
+21 verbose tar unpack /var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz
+22 silly lockFile 65779b12-60790-0-6958594778552651-package tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package
+23 verbose lock tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package /Users/roberto/.npm/65779b12-60790-0-6958594778552651-package.lock
+24 silly lockFile cb822e77-60790-0-6958594778552651-tmp-tgz tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz
+25 verbose lock tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz /Users/roberto/.npm/cb822e77-60790-0-6958594778552651-tmp-tgz.lock
+26 silly gunzTarPerm modes [ '755', '644' ]
+27 silly gunzTarPerm extractEntry package.json
+28 silly gunzTarPerm extractEntry .npmignore
+29 silly gunzTarPerm extractEntry index.js
+30 silly gunzTarPerm extractEntry lib/btngroup.js
+31 silly gunzTarPerm extractEntry lib/dropdown.js
+32 silly lockFile 65779b12-60790-0-6958594778552651-package tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package
+33 silly lockFile 65779b12-60790-0-6958594778552651-package tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package
+34 silly lockFile cb822e77-60790-0-6958594778552651-tmp-tgz tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz
+35 silly lockFile cb822e77-60790-0-6958594778552651-tmp-tgz tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/tmp.tgz
+36 verbose tar pack [ '/Users/roberto/.npm/clay-components/0.0.6/package.tgz',
+36 verbose tar pack   '/var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package' ]
+37 verbose tarball /Users/roberto/.npm/clay-components/0.0.6/package.tgz
+38 verbose folder /var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package
+39 silly lockFile 65779b12-60790-0-6958594778552651-package tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package
+40 verbose lock tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package /Users/roberto/.npm/65779b12-60790-0-6958594778552651-package.lock
+41 silly lockFile 93c4c3f5-lay-components-0-0-6-package-tgz tar:///Users/roberto/.npm/clay-components/0.0.6/package.tgz
+42 verbose lock tar:///Users/roberto/.npm/clay-components/0.0.6/package.tgz /Users/roberto/.npm/93c4c3f5-lay-components-0-0-6-package-tgz.lock
+43 silly lockFile 65779b12-60790-0-6958594778552651-package tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package
+44 silly lockFile 65779b12-60790-0-6958594778552651-package tar:///var/folders/jh/r3qc2ygs48lg96lpbt769fs00000gn/T/npm-64642-X5nbZBxn/1437702160790-0.6958594778552651/package
+45 silly lockFile 93c4c3f5-lay-components-0-0-6-package-tgz tar:///Users/roberto/.npm/clay-components/0.0.6/package.tgz
+46 silly lockFile 93c4c3f5-lay-components-0-0-6-package-tgz tar:///Users/roberto/.npm/clay-components/0.0.6/package.tgz
+47 silly lockFile 785c1dcf-pm-clay-components-0-0-6-package /Users/roberto/.npm/clay-components/0.0.6/package
+48 verbose lock /Users/roberto/.npm/clay-components/0.0.6/package /Users/roberto/.npm/785c1dcf-pm-clay-components-0-0-6-package.lock
+49 silly lockFile 785c1dcf-pm-clay-components-0-0-6-package /Users/roberto/.npm/clay-components/0.0.6/package
+50 silly lockFile 785c1dcf-pm-clay-components-0-0-6-package /Users/roberto/.npm/clay-components/0.0.6/package
+51 verbose tar unpack /Users/roberto/.npm/clay-components/0.0.6/package.tgz
+52 silly lockFile 4694da23-pm-clay-components-0-0-6-package tar:///Users/roberto/.npm/clay-components/0.0.6/package
+53 verbose lock tar:///Users/roberto/.npm/clay-components/0.0.6/package /Users/roberto/.npm/4694da23-pm-clay-components-0-0-6-package.lock
+54 silly lockFile 93c4c3f5-lay-components-0-0-6-package-tgz tar:///Users/roberto/.npm/clay-components/0.0.6/package.tgz
+55 verbose lock tar:///Users/roberto/.npm/clay-components/0.0.6/package.tgz /Users/roberto/.npm/93c4c3f5-lay-components-0-0-6-package-tgz.lock
+56 silly gunzTarPerm modes [ '755', '644' ]
+57 silly gunzTarPerm extractEntry package.json
+58 silly gunzTarPerm extractEntry .npmignore
+59 silly gunzTarPerm extractEntry index.js
+60 silly gunzTarPerm extractEntry lib/btngroup.js
+61 silly gunzTarPerm extractEntry lib/dropdown.js
+62 silly lockFile 4694da23-pm-clay-components-0-0-6-package tar:///Users/roberto/.npm/clay-components/0.0.6/package
+63 silly lockFile 4694da23-pm-clay-components-0-0-6-package tar:///Users/roberto/.npm/clay-components/0.0.6/package
+64 silly lockFile 93c4c3f5-lay-components-0-0-6-package-tgz tar:///Users/roberto/.npm/clay-components/0.0.6/package.tgz
+65 silly lockFile 93c4c3f5-lay-components-0-0-6-package-tgz tar:///Users/roberto/.npm/clay-components/0.0.6/package.tgz
+66 verbose chmod /Users/roberto/.npm/clay-components/0.0.6/package.tgz 644
+67 verbose chown /Users/roberto/.npm/clay-components/0.0.6/package.tgz [ 501, 20 ]
+68 silly lockFile 3a52ce78- .
+69 silly lockFile 3a52ce78- .
+70 silly publish { name: 'clay-components',
+70 silly publish   version: '0.0.6',
+70 silly publish   description: 'App Development Components',
+70 silly publish   main: 'index.js',
+70 silly publish   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+70 silly publish   author: { name: 'Roberto Rodriguez' },
+70 silly publish   license: 'BSD-2-Clause',
+70 silly publish   dependencies: { 'clay-delegate': '^0.2.3', events: '^1.0.2' },
+70 silly publish   readme: 'ERROR: No README data found!',
+70 silly publish   _id: 'clay-components@0.0.6',
+70 silly publish   dist: { shasum: 'cd241f2ef9f26a31bf02140dd9afd6ab6c6cb617' },
+70 silly publish   _from: '.' }
+71 error need auth auth and email required for publishing
+71 error need auth You need to authorize this machine using `npm adduser`
+72 error System Darwin 14.0.0
+73 error command "/Users/roberto/.nvm/v0.10.21/bin/node" "/Users/roberto/.nvm/v0.10.21/bin/npm" "publish"
+74 error cwd /Users/roberto/proyectos/clay/clay-components
+75 error node -v v0.10.21
+76 error npm -v 1.3.11
+77 error code ENEEDAUTH
+78 verbose exit [ 1, true ]
